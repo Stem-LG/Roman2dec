@@ -44,8 +44,6 @@ int main(){
             int v1 = value(rom[i]);
             if(i+1 < rom.size()){
                 int v2 = value(rom[i+1]);
-                cout<<v1<<endl;
-                cout<<v2<<endl;
                 if(v1>=v2){
                     result+=v1;
                 }else{
