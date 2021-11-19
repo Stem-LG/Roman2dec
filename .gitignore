@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+tempCodeRunnerFile.cpp
+.vscode/settings.json
